@@ -40,5 +40,6 @@ It includes the following features:
 ```
 yarn install
 yarn start
+Testing: yarn test
 open http://localhost:3000
 ```
