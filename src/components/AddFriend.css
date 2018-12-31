@@ -1,0 +1,7 @@
+:local(.flex) {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}

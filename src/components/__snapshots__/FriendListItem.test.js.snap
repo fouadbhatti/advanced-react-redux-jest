@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FriendListItem Component Test renders as expected with being starred 1`] = `
+<li>
+  <div>
+    <div>
+      <span>
+        Theodore Roosevelt
+      </span>
+    </div>
+    <div>
+      <span>
+        Male
+      </span>
+    </div>
+    <div>
+      <small>
+        xx friends in common
+      </small>
+    </div>
+  </div>
+  <div>
+    <button
+      className="btn btn-default undefined"
+      onClick={[Function]}
+    >
+      <i
+        className="fa fa-star"
+      />
+    </button>
+    <button
+      className="btn btn-default undefined"
+      onClick={[Function]}
+    >
+      <i
+        className="fa fa-trash"
+      />
+    </button>
+  </div>
+</li>
+`;
+
+exports[`FriendListItem Component Test renders as expected without being starred 1`] = `
+<li>
+  <div>
+    <div>
+      <span>
+        Theodore Roosevelt
+      </span>
+    </div>
+    <div>
+      <span>
+        Male
+      </span>
+    </div>
+    <div>
+      <small>
+        xx friends in common
+      </small>
+    </div>
+  </div>
+  <div>
+    <button
+      className="btn btn-default undefined"
+      onClick={[Function]}
+    >
+      <i
+        className="fa fa-star-o"
+      />
+    </button>
+    <button
+      className="btn btn-default undefined"
+      onClick={[Function]}
+    >
+      <i
+        className="fa fa-trash"
+      />
+    </button>
+  </div>
+</li>
+`;

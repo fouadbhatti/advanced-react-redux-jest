@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SelectFriendGender Component Test renders as expected when female 1`] = `
+<select
+  className="form-control"
+  onChange={[Function]}
+  value="female"
+>
+  <option
+    value="male"
+  >
+    Male
+  </option>
+  <option
+    value="female"
+  >
+    Female
+  </option>
+</select>
+`;
+
+exports[`SelectFriendGender Component Test renders as expected when male 1`] = `
+<select
+  className="form-control"
+  onChange={[Function]}
+  value="male"
+>
+  <option
+    value="male"
+  >
+    Male
+  </option>
+  <option
+    value="female"
+  >
+    Female
+  </option>
+</select>
+`;

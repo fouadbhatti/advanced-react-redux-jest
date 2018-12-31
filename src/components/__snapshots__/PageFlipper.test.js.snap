@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PageFlipper Component Test renders as expected 1`] = `
+<div
+  className="btn-group"
+>
+  <button
+    className="btn btn-secondary"
+    disabled={true}
+    onClick={[Function]}
+    type="button"
+  >
+    &lt;
+  </button>
+  <button
+    className="btn btn-secondary"
+    disabled={false}
+    onClick={[Function]}
+    type="button"
+  >
+    &gt;
+  </button>
+</div>
+`;

@@ -1,0 +1,228 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FriendList Component Test renders a page as expected 1`] = `
+<ul>
+  <li>
+    <div>
+      <div>
+        <span>
+          Theodore Roosevelt
+        </span>
+      </div>
+      <div>
+        <span>
+          Male
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-star"
+        />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-trash"
+        />
+      </button>
+    </div>
+  </li>
+  <li>
+    <div>
+      <div>
+        <span>
+          Abraham Lincoln
+        </span>
+      </div>
+      <div>
+        <span>
+          Male
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-star-o"
+        />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-trash"
+        />
+      </button>
+    </div>
+  </li>
+  <li>
+    <div>
+      <div>
+        <span>
+          George Washington
+        </span>
+      </div>
+      <div>
+        <span>
+          Male
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-star-o"
+        />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-trash"
+        />
+      </button>
+    </div>
+  </li>
+  <li>
+    <div>
+      <div>
+        <span>
+          James Madison
+        </span>
+      </div>
+      <div>
+        <span>
+          Male
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-star-o"
+        />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-trash"
+        />
+      </button>
+    </div>
+  </li>
+  <li>
+    <div>
+      <div>
+        <span>
+          Bill Clinton
+        </span>
+      </div>
+      <div>
+        <span>
+          Male
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-star-o"
+        />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-trash"
+        />
+      </button>
+    </div>
+  </li>
+  <li>
+    <div>
+      <div>
+        <span>
+          Ronald Reagan
+        </span>
+      </div>
+      <div>
+        <span>
+          Male
+        </span>
+      </div>
+      <div>
+        <small>
+          xx friends in common
+        </small>
+      </div>
+    </div>
+    <div>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-star-o"
+        />
+      </button>
+      <button
+        className="btn btn-default undefined"
+        onClick={[Function]}
+      >
+        <i
+          className="fa fa-trash"
+        />
+      </button>
+    </div>
+  </li>
+</ul>
+`;

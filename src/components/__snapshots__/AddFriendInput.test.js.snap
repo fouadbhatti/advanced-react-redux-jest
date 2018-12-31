@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddFriendInput Component Test renders as expected 1`] = `
+<input
+  autoFocus="true"
+  className="form-control"
+  onChange={[Function]}
+  onKeyDown={[Function]}
+  placeholder="Type the name of a friend"
+  type="text"
+  value="John Snow"
+/>
+`;
