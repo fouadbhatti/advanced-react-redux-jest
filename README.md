@@ -35,6 +35,7 @@ It includes the following features:
 - Hooks using state and other react features without writing a class - React v16.7.0-alpha
 - Hot reloading and time Travel
 - Redux reselect selectors for encapsulation and performance
+- Lazy loading components
 
 ### Installation
 ```
