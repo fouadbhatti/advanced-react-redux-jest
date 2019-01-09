@@ -36,6 +36,7 @@ It includes the following features:
 - Hot reloading and time Travel
 - Redux reselect selectors for encapsulation and performance
 - Lazy loading components
+- Using recompose library for using state in functional components, conditional rendering/branching, lifecycle hooks, composing higher order components
 
 ### Installation
 ```
